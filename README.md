@@ -1,2 +1,2 @@
 # TravaBot
- Projeto do hackathon - Católica
+ Projeto do hackathon - Segurança de dados sensíveis (Católica).
